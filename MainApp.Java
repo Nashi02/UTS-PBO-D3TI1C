@@ -210,7 +210,7 @@ public class MainApp {
             e.printStackTrace();
         }
 
-        System.out.println("\nSampai jumpa 👋");
+        System.out.println("\nSampai jumpa");
         System.exit(0);
     }
 
